@@ -1,1 +1,4 @@
-#RabbitMQ
+# RabbitMQ
+RabbitMQ is a message broker: it accepts and forwards messages.
+
+** RabbitMQ, and messaging in general, uses some jargon. **
